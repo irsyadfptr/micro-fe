@@ -1,6 +1,5 @@
 name: deploy-container
 
-//Run this workflow every time a new commit pushed to container
 on:
  push:
   branches:
